@@ -3,7 +3,7 @@
 <br>🌱 I’m currently learning Laravel
 <br>🤝 I’m looking for collaboration
 <br>⚡ I’m interested in working enthusiastically and passionately wherever I go, gaining new experiences
-<br>📫 How to reach me [www.linkedin.com/in/fatemeh-khoshgoftar-766418258) on linkedin
+<br>📫 How to reach me [www.linkedin.com/in/fatemeh-khoshgoftar-766418258] on linkedin
 
 
 <!--
